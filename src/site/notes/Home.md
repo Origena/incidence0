@@ -7,7 +7,7 @@
 
 ## Welcome to the archive of the Incidence 0 blog
 
-*The Incidence 0 blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history. It was managed, written and edited by Roger Tatoud during his spare time. Views expressed did not necessarily reflect or represent those of the organisations the blogger was working for or contribute to, as a matter of facts, this would be surprising, but creation is in contradiction.
+*The Incidence 0 blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history. It was managed, written and edited by Roger Tatoud during his spare time. Views expressed did not necessarily reflect or represent those of the organisations the blogger was working for or contribute to, as a matter of facts, this would be surprising, but creation is in contradiction.*
 
 *The succession of encouraging results that was coming out of the clinical trials of New Prevention Technologies (Circumcision, Microbicides, PrEP) and a growing recognition that treatment also contribute to prevention of HIV transmission were raising new hopes. But these recent advances often raised more questions than they answered and, happening on the background of an economic recession, created confusion and dilemmas amongst advocates, funders and recipients as to what should be done next to successfully contain and quell the HIV epidemic.*
 
