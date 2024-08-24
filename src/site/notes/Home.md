@@ -2,23 +2,23 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-![logowide.jpg](/img/user/Images/logowide.jpg)
+ ![Incidence0mediumwide.jpg](/img/user/Incidence0mediumwide.jpg)
 # No-Nonsense Evidence-based HIV Prevention Approach
 
 ## Welcome to the archive of the Incidence 0 blog
 
-This blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history.
+*This blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history.*
 
-The succession of encouraging results that was coming out of the clinical trials of New Prevention Technologies (Circumcision, Microbicides, PrEP) and a growing recognition that treatment also contribute to prevention of HIV transmission were raising new hopes. But these recent advances often raised more questions than they answered and, happening on the background of an economic recession, created confusion and dilemmas amongst advocates, funders and recipients as to what should be done next to successfully contain and quell the HIV epidemic.
+*The succession of encouraging results that was coming out of the clinical trials of New Prevention Technologies (Circumcision, Microbicides, PrEP) and a growing recognition that treatment also contribute to prevention of HIV transmission were raising new hopes. But these recent advances often raised more questions than they answered and, happening on the background of an economic recession, created confusion and dilemmas amongst advocates, funders and recipients as to what should be done next to successfully contain and quell the HIV epidemic.*
 
-With the achievements of the Millennium Development Goals then under review and a prevention revolution at the heart of the next UNAIDS strategic plan for 2011-2015, it was time to have a much needed conversation about the future of HIV prevention if we want to lead a successful HIV prevention revolution.
+*With the achievements of the Millennium Development Goals then under review and a prevention revolution at the heart of the next UNAIDS strategic plan for 2011-2015, it was time to have a much needed conversation about the future of HIV prevention if we want to lead a successful HIV prevention revolution.*
 
-This was what this blog aimed to contribute to. It formally ended on March 6, 2018, although posting had largely dried out by the end of 2015. Time had changed, new voices and faces needed to take front stage.
+*This was what this blog aimed to contribute to. It formally ended on March 6, 2018, although posting had largely dried out by the end of 2015. Time had changed, new voices and faces needed to take front stage.*
 
-I am republishing it in a new space and, as I review it post by post, I aim to reflect on my thoughts at the time of writing and comment on any changes in my views or in the field of HIV prevention. This exercise promises to be insightful.
+*I am republishing it in a new space and, as I review it post by post, I aim to reflect on my thoughts at the time of writing and comment on any changes in my views or in the field of HIV prevention. This exercise promises to be insightful.*
 
-Bear with me!
-Roger
+*Bear with me!*
+*Roger*
 ## What was it all about?
 
 *Here was the opening post, posted on March 20, 2011.*
@@ -44,9 +44,7 @@ No question should be ignored, no perspective disregarded. All opinions are wort
 
 Roger
 
-_This blog was managed, written and edited by Roger Tatoud during his spare time._
-
-_Views expressed on this blog do not necessarily reflect or represent those of the organisations the blogger works for or contribute to (as a matter of facts, this would be surprising, but creation is in contradiction)._
+_This blog was managed, written and edited by Roger Tatoud during his spare time. Views expressed on this blog do not necessarily reflect or represent those of the organisations the blogger works for or contribute to (as a matter of facts, this would be surprising, but creation is in contradiction)._
 
 >[!Comments]
 >- Nearly 14 years later, the HIV epidemic persists, with several ambitious targets still unmet. Nonetheless, significant progress has been achieved, particularly with oral PrEP, which has been a game changer, and more recently with long-acting ARVs, which are expected to shift the paradigm in HIV prevention. The definitive confirmation that individuals on treatment are not infectious (U=U) has also made a meaningful impact, though it has not yet brought the epidemic under control.
