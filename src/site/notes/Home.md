@@ -43,4 +43,4 @@ Roger
 
 _This blog was managed, written and edited by Roger Tatoud during his spare time._
 
-_Views expressed on this blog do not necessarily reflect or represent those of the organisations the blogger works for or contribute to (as a matter of facts, this would be surprising, but creation is in contradiction).
+_Views expressed on this blog do not necessarily reflect or represent those of the organisations the blogger works for or contribute to (as a matter of facts, this would be surprising, but creation is in contradiction)._
