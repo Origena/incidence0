@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry"]}
 ---
 
  ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
@@ -7,7 +7,7 @@
 
 ## Welcome to the archive of the Incidence 0 blog
 
-*The Incidence 0 blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history. It was managed, written and edited by Roger Tatoud during his spare time. Views expressed did not necessarily reflect or represent those of the organisations the blogger was working for or contribute to, as a matter of facts, this would be surprising, but creation is in contradiction.*
+*The Incidence 0 blog started on March 20, 2011 as the field of HIV prevention was at a turning point in its history. It was managed, written and edited by Roger Tatoud during his spare time. Views expressed did not necessarily reflect or represent those of the organisations the blogger was working for or contribute to, as a matter of facts, this would be surprising then, and now, but creation is in contradiction.*
 
 *The succession of encouraging results that was coming out of the clinical trials of NPTs - New Prevention Technologies (Circumcision, Microbicides, PrEP), and a growing recognition that treatment also contribute to prevention of HIV transmission were raising new hopes. But these recent advances often raised more questions than they answered and, happening on the background of an economic recession, created confusion and dilemmas amongst advocates, funders and recipients as to what should be done next to successfully contain and quell the HIV epidemic.*
 
@@ -17,7 +17,7 @@
 
 *I am republishing it in a new space and, as I review it post by post, I aim to reflect on my thoughts at the time of writing and briefly comment on any changes in my views or in the field of HIV prevention. I'll also add clarifying notes when needed. This exercise promises to be insightful.*
 
-*There are over 50 posts to go through this will take some time, bear with me! Here was the opening post, dated on March 20, 2011.*
+*There are over 50 posts to go through and this will take some time, bear with me! Here was the opening post, dated March 20, 2011.*
 # Time for a conversation about HIV prevention
 
 HIV prevention as we know it and have done it for the last 30 years is failing to put an end to the HIV epidemic. At best current prevention strategies appear to be containing HIV incidence at a rate of 2.7 million new infections a year after a peak at 3.5 million in 1996.
