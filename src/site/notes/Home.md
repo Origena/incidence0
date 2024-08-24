@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
- ![Incidence0mediumwide.jpg](/img/user/Incidence0mediumwide.jpg)
+ ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
 # No-Nonsense Evidence-based HIV Prevention Approach
 
 ## Welcome to the archive of the Incidence 0 blog
