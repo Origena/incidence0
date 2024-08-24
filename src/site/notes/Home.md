@@ -17,7 +17,7 @@
 
 *I am republishing it in a new space and, as I review it post by post, I aim to reflect on my thoughts at the time of writing and comment on any changes in my views or in the field of HIV prevention. This exercise promises to be insightful.*
 
-*There are over 50 posts to go through this will take some time, bear with me! Here was the opening post, posted on March 20, 2011.*
+*There are over 50 posts to go through this will take some time, bear with me! Here was the opening post, dated on March 20, 2011.*
 # Time for a conversation about HIV prevention
 HIV prevention as we know it and have done it for the last 30 years is failing to put an end to the HIV epidemic. At best current prevention strategies appear to be containing HIV incidence at a rate of 2.7 million new infections a year after a peak at 3.5 million in 1996.
 
