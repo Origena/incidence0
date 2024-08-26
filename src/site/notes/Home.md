@@ -22,4 +22,4 @@ There are over 50 posts to go through and this will take some time, bear with me
 
 Roger Tatoud.
 
-*Note: I have not made changes to the original posting, as it reflects my ongoing journey in learning the English language.*
+*Note: I have not made changes to the original postings, as they reflects my ongoing journey in learning the English language.*
