@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry"]}
 ---
 
  ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
@@ -21,3 +21,5 @@ I am republishing it in a new space and, as I review it post by post, I aim to r
 There are over 50 posts to go through and this will take some time, bear with me and let's star with the [[2011/Time for a conversation about HIV prevention\|opening post]], dated March 20, 2011.
 
 Roger Tatoud.
+
+*Note: I have not made changes to the original posting, as it reflects my ongoing journey in learning the English language.*
