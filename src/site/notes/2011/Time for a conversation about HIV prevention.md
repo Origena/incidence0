@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2011/time-for-a-conversation-about-hiv-prevention/","tags":["hiv-prevention","prevention-revolution"]}
 ---
 
-- [ ] 📢 First published: 20-Mar-2011
+📢 First published: 20-Mar-2011
 ☑️ Reviewed: 27-Aug-2024
 
 HIV prevention as we know it and have done it for the last 30 years is failing to put an end to the HIV epidemic. At best current prevention strategies appear to be containing HIV incidence at a rate of 2.7 million new infections a year after a peak at 3.5 million in 1996.
