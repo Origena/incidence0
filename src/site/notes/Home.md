@@ -36,6 +36,6 @@ Roger Tatoud
 >For a more relevant up-to-date data see the [UNAIDS 2012 Factsheet](https://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/gr2012/20121120_FactSheet_Global_en.pdf), in 2011:
 >- 34 million people were living with HIV. 
 >- 2.5 million people became newly infected with HIV Worldwide.
->- I1.7 million people died from AIDS-related causes worldwide — 24% fewer deaths than in 2005.
->- More than 8 million people living with HIV had access to antiretroviral therapy.  The number of people accessing HIV treatment increased by 63% from 2009 to 2011. In 10 low- and middle-income countries, more than 80% of those eligible are receiving antiretroviral therapy. However, 7 million people eligible for HIV treatment still do not have access. 
+>- 1.7 million people died from AIDS-related causes worldwide — 24% fewer deaths than in 2005.
+>- More than 8 million people living with HIV had access to antiretroviral therapy.  The number of people accessing HIV treatment increased by 63% from 2009 to 2011. In 10 low- and middle-income countries, more than 80% of those eligible are receiving antiretroviral therapy. However, 7 million people eligible for HIV treatment still do not have access.
 
