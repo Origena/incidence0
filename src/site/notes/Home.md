@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry"]}
 ---
 
  ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
@@ -22,7 +22,7 @@ There are over 50 posts to go through and this will take some time, bear with me
 
 Roger Tatoud
 
-*Note: I have not made changes to the original postings, as they reflects my ongoing journey in learning the English language.*
+*Note: I have not made changes to the original postings, as they reflect my ongoing journey in learning the English language.*
 
 >[!note]
 >**Millennium Development Goal 6: combat HIV/AIDS, malaria and other diseases**
