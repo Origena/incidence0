@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry"]}
 ---
 
  ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
@@ -16,7 +16,7 @@ With the achievements of the Millennium Development Goals ([[MDG\|MDG]]) then un
 
 This was what this blog aimed to contribute to. It formally ended on March 6, 2018, although posting had largely dried out by the end of 2015. Times had changed, new voices and faces needed to take front stage.
 
-I am republishing it in a new space and, as I review it post by post, I aim to reflect on my thoughts at the time of writing and briefly comment on any changes in my views or in the field of HIV prevention. I'll also add clarifying notes when needed. This exercise promises to be insightful.
+I am republishing it in a new space, reviewing each post to reflect on my thoughts at the time of writing. I'll briefly comment on any changes in my views or in the field of HIV prevention and share my thoughts on the current direction and future of HIV prevention. I'll also add clarifying notes where needed. This exercise promises to be insightful.
 
 There are over 50 posts to go through and this will take some time, bear with me and let's star with the [[2011/Time for a conversation about HIV prevention\|opening post]], dated March 20, 2011.
 
@@ -47,3 +47,5 @@ Roger Tatoud
 >
 >**See also:** Fukuda-Parr, S., Yamin, A. E., & Greenstein, J. (2014). The Power of Numbers: A Critical Review of Millennium Development Goal Targets for Human Development and Human Rights. _Journal of Human Development and Capabilities_, _15_(2–3), 105–117. https://doi.org/10.1080/19452829.2013.864622
 
+>[!Danger] Comment
+>Significant progress has been achieved in the past 12 years, though the slowing rate of progress raises questions about whether HIV is becoming endemic.
