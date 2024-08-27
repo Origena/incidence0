@@ -32,6 +32,7 @@ Roger Tatoud
 >"New HIV infections are declining steadily, led by sub-Saharan Africa. In 2009, an estimated 2.6 million people were newly infected with HIV—a drop of 21 per cent since 1997, when new infections peaked. Thanks to increased funding and the expansion of major programmes, the number of people receiving antiretroviral therapy for HIV or AIDS increased 13 fold from 2004 to 2009. By end-2009, 5.25 million people were receiving such treatment in low- and middle-income countries — an increase of over 1.2 million people since December 2008. As a result, the number of AIDS-related deaths declined by 19 per cent over the same period."
 >
 >**Source:** [The Millennium Development Goals Report 2011](https://www.un-ilibrary.org/content/books/9789210548229)
+>**See also:** Fukuda-Parr, S., Yamin, A. E., & Greenstein, J. (2014). The Power of Numbers: A Critical Review of Millennium Development Goal Targets for Human Development and Human Rights. _Journal of Human Development and Capabilities_, _15_(2–3), 105–117. https://doi.org/10.1080/19452829.2013.864622
 >
 >For a more up-to-date dataset see the [UNAIDS 2012 Factsheet](https://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/gr2012/20121120_FactSheet_Global_en.pdf), in 2011:
 >- 34 million people were living with HIV. 
@@ -45,7 +46,7 @@ Roger Tatoud
 > - 630 000 people died from AIDS-related illnesses.
 > - 30.7 million people were accessing antiretroviral therapy.
 >
->**See also:** Fukuda-Parr, S., Yamin, A. E., & Greenstein, J. (2014). The Power of Numbers: A Critical Review of Millennium Development Goal Targets for Human Development and Human Rights. _Journal of Human Development and Capabilities_, _15_(2–3), 105–117. https://doi.org/10.1080/19452829.2013.864622
 
 >[!Danger] Comment
 >Significant progress has been achieved in the past 12 years, though the slowing rate of progress raises questions about whether HIV is becoming endemic.
+
