@@ -6,7 +6,7 @@
  
 ## No-Nonsense Evidence-based HIV Prevention Approach
 
-**Welcome to the archive of the Incidence 0 blog**
+**Welcome to the archives of the Incidence 0 blog**
 
 The *Incidence 0 blog* was started on March 20, 2011 as the field of HIV prevention was at a turning point in its history. I managed, wrote and edited this blog during my spare time. Views expressed did not necessarily reflect or represent those of the organisations I was working for or contribute to, as a matter of facts, this would have been surprising then, and now, but creation is in contradiction.
 
