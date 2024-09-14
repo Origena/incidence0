@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2011/pr-ep-for-whom-are-these-pills/","title":"PrEP: for whom are these pills?","tags":["prep","prevention-revolution","risk","susceptibility","vulnerability","access"]}
 ---
 
-*From the [[Home\|Archives of the Incidence 0 blog]]*
+*From the [[Incidence 0\|Archives of the Incidence 0 blog]]*
 📢 First published: 22-Mar-2011
 ☑️ Reviewed: 31-Aug-2024
 

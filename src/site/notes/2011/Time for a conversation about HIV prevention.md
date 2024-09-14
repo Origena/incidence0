@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2011/time-for-a-conversation-about-hiv-prevention/","tags":["hiv-prevention","prevention-revolution"]}
 ---
 
-*From the [[Home\|Archives of the Incidence 0 blog]]*
+*From the [[Incidence 0\|Archives of the Incidence 0 blog]]*
 📢 First published: 20-Mar-2011
 ☑️ Reviewed: 27-Aug-2024
 
@@ -21,7 +21,7 @@ To date, of the prevention interventions tested in clinical trials, only four ha
 
 Though these clinical studies open the way to more powerful interventions they are not good enough on their own to crush the current level of HIV infection and raise a number of questions and challenges.
 
-Incidence 0 aims at supporting and advancing the development of no-nonsense evidence-based HIV prevention interventions by providing a critical analysis of existing and new HIV prevention approaches and technologies.
+[[Incidence 0\|Incidence 0]] aims at supporting and advancing the development of no-nonsense evidence-based HIV prevention interventions by providing a critical analysis of existing and new HIV prevention approaches and technologies.
 
 No question should be ignored, no perspective disregarded. All opinions are worth considering because all those involved and dedicated to fighting the spread of HIV have one thing in common: they all want to bring HIV incidence down to zero.
 
