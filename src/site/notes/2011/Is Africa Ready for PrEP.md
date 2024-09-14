@@ -8,6 +8,8 @@
 
 **Adebisi Ademola Alimi**
 
+(To be followed by [[2011/Of course Africa is ready for PrEP!\|Stella Nyanzi]])
+
 One of the biggest breakthrough in HIV clinical research, since the outbreak of the epidemic 30 years ago, is the recent success in a clinical trial of a new HIV prevention approach based on the daily use of the antiretroviral drug [Truvada](http://www.truvada.com/) by HIV negative person to prevent HIV transmission (Called [[PrEP\|PrEP]]), for Pre-Exposure Prophylaxis).
 
 ![PrEP4Africa-268x300.jpg](/img/user/Images/PrEP4Africa-268x300.jpg)

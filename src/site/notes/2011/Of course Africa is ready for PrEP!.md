@@ -7,6 +7,9 @@
 ☑️ Reviewed: 07-SEP-2024
 
 **Stella Nyanzi**
+
+(Following in the streps of [[2011/Is Africa Ready for PrEP\|Bisi Alimi]])
+
 Whether or not Africa is ready for PrEP interests me because of several underlying assumptions in some of the answers about how we define [[Africa\|Africa]].
 
 ![PrEP4Africa2.jpg|300](/img/user/Images/PrEP4Africa2.jpg)
