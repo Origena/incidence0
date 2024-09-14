@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2011/of-course-africa-is-ready-for-pr-ep/","title":"Of course Africa is ready for PrEP!","tags":["africa","prep","strategy"]}
 ---
 
-*From the [[Incidence 0\|Archives of the Incidence 0 blog]]*
+*From the [[Incidence 0\|Incidence 0]] Archives*
 📢 First published: 12-APR-2011
 ☑️ Reviewed: 07-SEP-2024
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2011/time-for-a-conversation-about-hiv-prevention/","tags":["hiv-prevention","prevention-revolution"]}
 ---
 
-*From the [[Incidence 0\|Archives of the Incidence 0 blog]]*
+*From the [[Incidence 0\|Incidence 0]] Archives*
 📢 First published: 20-Mar-2011
 ☑️ Reviewed: 27-Aug-2024
 
