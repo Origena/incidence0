@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incidence-0/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/incidence-0/","title":"Home","tags":["hiv-prevention","prevention-revolution","gardenEntry"]}
 ---
 
  ![Incidence0mediumwide.jpg](/img/user/Images/Incidence0mediumwide.jpg)
